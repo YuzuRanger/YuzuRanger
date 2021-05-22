@@ -1,6 +1,6 @@
 ### Morgan Rose Chapleau-Stein
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height="20" "Python")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png "Python" |  height="20" )
 
 <!--
 **YuzuRanger/YuzuRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
