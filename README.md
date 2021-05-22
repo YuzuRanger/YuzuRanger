@@ -1,5 +1,5 @@
 ### Morgan Rose Chapleau-Stein
-[<img src="https://img.icons8.com/plasticine/452/linkedin.png" width="40" height="40">](https://www.linkedin.com/in/chapleaustein/)
+[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40" height="40">](https://www.linkedin.com/in/chapleaustein/)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="25" height="25">  <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="25" height="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="25" height="25">
 
