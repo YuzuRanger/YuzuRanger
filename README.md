@@ -1,5 +1,7 @@
 ### Morgan Rose Chapleau-Stein
-<img height="20"src="https://img.icons8.com/color/452/graphql.png">
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <!--
 **YuzuRanger/YuzuRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
