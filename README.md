@@ -1,4 +1,5 @@
-### Hi there 👋
+### Morgan Rose Chapleau-Stein
+<img height="20"src="https://img.icons8.com/color/452/graphql.png">
 
 <!--
 **YuzuRanger/YuzuRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
