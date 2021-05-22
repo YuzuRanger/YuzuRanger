@@ -1,7 +1,6 @@
 ### Morgan Rose Chapleau-Stein
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png "Python")
 
 <!--
 **YuzuRanger/YuzuRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
