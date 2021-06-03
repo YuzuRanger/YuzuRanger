@@ -12,7 +12,8 @@ Hi, I'm Morgan!
 
 📫 How to reach me:
 
-      [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25" height="25">](https://www.linkedin.com/in/chapleaustein/)  [<img src="https://icons-for-free.com/iconfiles/png/512/web+website+www+icon+icon-1320196207033947200.png" width="25" height="25">](https://yuzuranger.github.io/)
+      [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25" height="25">](https://www.linkedin.com/in/chapleaustein/)LinkedIn  
+      [<img src="https://icons-for-free.com/iconfiles/png/512/web+website+www+icon+icon-1320196207033947200.png" width="25" height="25">](https://yuzuranger.github.io/)Website  
 
 <!--
 **YuzuRanger/YuzuRanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
