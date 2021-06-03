@@ -4,11 +4,11 @@ Hi, I'm Morgan!
 
 🌱 I’m currently working with:
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="25" height="25">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="25" height="25">  Python
     <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="25" height="25">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="25" height="25">  
-    <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="25" height="25">  
-    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-language-805911.png" width="25" height="25">
+    <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="25" height="25">  HTML
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-language-805911.png" width="25" height="25">  HTML
 
 📫 How to reach me:
 
