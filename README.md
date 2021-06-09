@@ -18,8 +18,8 @@ Hi, I'm Morgan!
 
 - 🔭 I’m currently working on ... My website
 - 👯 I’m looking to collaborate on ... User Experience, Cybersecurity, Gaming
-- 🤔 I’m looking for help with ... Finding employment
-- 💬 Ask me about ... My Shiba Inu
+- 🤔 I’m looking for help with ... Finding opportunities
+- 💬 Ask me about ... My Shiba Inu Dog
 - 😄 Pronouns: ... She/Her They/Them
 
 <!--
