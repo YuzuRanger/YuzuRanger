@@ -16,7 +16,7 @@ Hi, I'm Morgan!
       [<img src="https://icons-for-free.com/iconfiles/png/512/web+website+www+icon+icon-1320196207033947200.png" width="25" height="25">](https://yuzuranger.github.io/)Website  
 
 
-- 🔭 I’m currently working on ... My website
+- 🔭 I’m currently working on ... A cybersecurity training game
 - 👯 I’m looking to collaborate on ... User Experience, Cybersecurity, Gaming
 - 🤔 I’m looking for help with ... Finding opportunities
 - 💬 Ask me about ... My Shiba Inu Dog
