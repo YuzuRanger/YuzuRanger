@@ -6,7 +6,7 @@ Hi, I'm Morgan! I'm a web developer in Oregon.
 C/C++, Python, Flutter, HTML, CSS, JS, PHP
 
 📫 How to reach me:
-https://www.linkedin.com/in/chapleaustein/
+https://www.linkedin.com/in/chapleaustein/ </br>
 https://yuzuranger.github.io/
 
 
