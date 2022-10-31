@@ -4,7 +4,6 @@ Hi, I'm Morgan! I'm a web developer in Oregon.
 
 📫 How to reach me:</br>
 https://www.linkedin.com/in/chapleaustein/ </br>
-https://yuzuranger.github.io/ </br>
 <a href="mailto:m.chapleaustein@gmail.com" target="_blank">📧</a>
 
 
