@@ -1,6 +1,6 @@
 ### Morgan Rose Chapleau-Stein
 
-Hi, I'm Morgan! I do ethical hacking/pentesting and web dev. I did some multiplayer game projects too!
+Hi, I'm Morgan! I do cybersec and web dev. I did some multiplayer game projects too!
 
 📫 How to reach me:</br>
 https://www.linkedin.com/in/chapleaustein/ </br>
